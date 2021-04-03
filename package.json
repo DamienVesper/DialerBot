@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/DamienVesper/DialerBot/issues"
   },
-  "homepage": "https://github.com/DamienVesper/DialerBot#readme"
+  "homepage": "https://github.com/DamienVesper/DialerBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "robotjs": "^0.6.0"
+  }
 }
